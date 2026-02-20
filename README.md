@@ -5,7 +5,7 @@
 
 ### You can Contact me:
 <div align="left">
-  <img align="right" height="190"   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhzaDV3Mnl6anpuazZzcXUyaGNxcjlqMHlma3ZhZWV6ZG1oYzRrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jOZt5tdGYxzz0H6Nfi/giphy.gif"  />
+  <img align="right" width="330" height="300"   src="https://media1.tenor.com/m/FbXmyf36IGIAAAAC/code.gif"  />
   
   <!--instagram-->
   <a href="https://www.instagram.com/satvik_sharma__07/" target="_blank">
